@@ -1,0 +1,52 @@
+2023-04-21 08:25:48,639 INFO [cons139] add_to_cart() called, params -> cart_id=577, product=Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+2023-04-21 08:25:48,654 INFO [cons139] take_product_from_producer() called, params -> product=Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+2023-04-21 08:25:48,621 INFO [prod20] publish() called, params -> producer_id=12, product=Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+2023-04-21 08:25:48,658 INFO [prod20] Product published!
+2023-04-21 08:25:48,606 INFO [prod35] Product published!
+2023-04-21 08:25:48,637 INFO [prod36] publish() called, params -> producer_id=24, product=Tea(name='Jasmine', price=6, type='Green')
+2023-04-21 08:25:48,662 INFO [prod36] Product published!
+2023-04-21 08:25:48,639 INFO [prod24] publish() called, params -> producer_id=40, product=Tea(name='White Peach', price=5, type='White')
+2023-04-21 08:25:48,665 INFO [prod24] Product not published!
+2023-04-21 08:25:48,667 INFO [prod29] publish() called, params -> producer_id=18, product=Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+2023-04-21 08:25:48,668 INFO [prod29] Product not published!
+2023-04-21 08:25:48,654 INFO [prod42] publish() called, params -> producer_id=44, product=Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+2023-04-21 08:25:48,671 INFO [prod42] Product not published!
+2023-04-21 08:25:48,656 INFO [cons139] Product 'taken'!
+2023-04-21 08:25:48,674 INFO [cons139] Product added!
+2023-04-21 08:25:48,676 INFO [cons139] add_to_cart() called, params -> cart_id=577, product=Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+2023-04-21 08:25:48,664 INFO [prod25] publish() called, params -> producer_id=15, product=Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+2023-04-21 08:25:48,641 INFO [prod18] publish() called, params -> producer_id=37, product=Tea(name='White Peach', price=5, type='White')
+2023-04-21 08:25:48,665 INFO [prod12] publish() called, params -> producer_id=35, product=Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+2023-04-21 08:25:48,681 INFO [prod12] Product not published!
+2023-04-21 08:25:48,647 INFO [prod14] publish() called, params -> producer_id=47, product=Tea(name='English Breakfast', price=2, type='Black')
+2023-04-21 08:25:48,668 INFO [prod28] publish() called, params -> producer_id=17, product=Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+2023-04-21 08:25:48,686 INFO [prod28] Product published!
+2023-04-21 08:25:48,631 INFO [prod7] publish() called, params -> producer_id=29, product=Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+2023-04-21 08:25:48,689 INFO [prod7] Product not published!
+2023-04-21 08:25:48,627 INFO [prod48] publish() called, params -> producer_id=32, product=Tea(name='English Breakfast', price=2, type='Black')
+2023-04-21 08:25:48,692 INFO [prod48] Product not published!
+2023-04-21 08:25:48,678 INFO [prod25] Product published!
+2023-04-21 08:25:48,678 INFO [prod47] publish() called, params -> producer_id=49, product=Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+2023-04-21 08:25:48,696 INFO [prod47] Product not published!
+2023-04-21 08:25:48,681 INFO [prod6] publish() called, params -> producer_id=42, product=Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+2023-04-21 08:25:48,698 INFO [prod6] Product not published!
+2023-04-21 08:25:48,684 INFO [prod14] Product not published!
+2023-04-21 08:25:48,685 INFO [prod8] publish() called, params -> producer_id=5, product=Tea(name='Pai Mu Tan', price=9, type='White')
+2023-04-21 08:25:48,649 INFO [prod3] publish() called, params -> producer_id=2, product=Tea(name='English Breakfast', price=2, type='Black')
+2023-04-21 08:25:48,704 INFO [prod3] Product published!
+2023-04-21 08:25:48,677 INFO [cons139] take_product_from_producer() called, params -> product=Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+2023-04-21 08:25:48,696 INFO [prod46] publish() called, params -> producer_id=31, product=Tea(name='White Peach', price=5, type='White')
+2023-04-21 08:25:48,708 INFO [prod46] Product not published!
+2023-04-21 08:25:48,698 INFO [prod4] publish() called, params -> producer_id=13, product=Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+2023-04-21 08:25:48,711 INFO [prod4] Product not published!
+2023-04-21 08:25:48,703 INFO [prod8] Product published!
+2023-04-21 08:25:48,703 INFO [prod37] publish() called, params -> producer_id=25, product=Tea(name='Vietnam Oolong', price=10, type='Oolong')
+2023-04-21 08:25:48,715 INFO [prod37] Product not published!
+2023-04-21 08:25:48,707 INFO [cons139] Product 'taken'!
+2023-04-21 08:25:48,718 INFO [cons139] Product added!
+2023-04-21 08:25:48,719 INFO [cons139] place_order() called, params -> cart_id=577
+2023-04-21 08:25:48,715 INFO [prod19] publish() called, params -> producer_id=11, product=Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+2023-04-21 08:25:48,723 INFO [prod19] Product published!
+2023-04-21 08:25:48,680 INFO [prod18] Product not published!
+2023-04-21 08:25:48,718 INFO [prod44] publish() called, params -> producer_id=30, product=Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+2023-04-21 08:25:48,665 INFO [prod15] publish() called, params -> producer_id=9, product=Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
